@@ -102,13 +102,15 @@ Esta es una aplicación web simple que permite al usuario añadir nombres a una 
 
 ## Screenshots
 
-### Adding Names
+### Añadiendo nombres
 
-![[screenshot.1508.jpg]]
+![screenshot 1508](https://github.com/user-attachments/assets/f79af7b0-8f40-46ae-9439-35d1c6cf364d)
+
 
 ### Ganador
 
-![[screenshot.1507.jpg]]
+![screenshot 1507](https://github.com/user-attachments/assets/26c9b3c6-8f5c-4be4-94be-37fef989ef1d)
+
     
 
 ---
